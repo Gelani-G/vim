@@ -3,7 +3,7 @@
 * Clone repo
 
 ```
-git clone https://github.com/Gelani-G/vimfiles.git ~/.vim
+git clone https://github.com/Gelani-G/vim.git ~/.vim
 ```
 
 * Clone [vundle](https://github.com/gmarik/vundle)
